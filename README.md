@@ -3,3 +3,5 @@
 
 Welocme to Coffe and Donuts repo, sourcefiles included except for libarary files wich will be auto generated upon opeing in unity.
 Other files such as C# classes can be access directly
+
+APK Location : CoffeeNDonuts\CoffeeNDonutsGit\Builds\CoffeeNDonuts.apk
